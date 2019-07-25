@@ -11,5 +11,5 @@ git clone https://github.com/tanujvyas10/K-Mean-Clustering.git
 ```
 # Run the script
 ```
-python k-means-cluster.py
+python k-means-clustere.py
 ```
